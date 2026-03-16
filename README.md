@@ -12,11 +12,6 @@
   It is built for Android phones, adapted for tablets, and optimized for Android TV. The project is focused on fast navigation, convenient episode selection, and a comfortable viewing experience across different screen sizes.
 </p>
 
-
-TuDiziPlay is an Android app for browsing Turkish series, episodes, and recent updates in a clean, lightweight interface.
-
-It is built for Android phones, adapted for tablets, and optimized for Android TV. The project is focused on fast navigation, convenient episode selection, and a comfortable viewing experience across different screen sizes.
-
 ## Main features
 
 - Simple catalog browsing
@@ -34,7 +29,7 @@ See the full screenshots here: [screenshots](./screenshots/)
 
 ## Language
 
-For a Russian description, see: [Russian version](./GITHUB_PROJECT_DESCRIPTION_RU.md)
+Russian description: [RU](./GITHUB_PROJECT_DESCRIPTION_RU.md) 🇷🇺
 
 ---
 
