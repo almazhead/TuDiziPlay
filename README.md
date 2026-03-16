@@ -35,6 +35,10 @@ See the full screenshots here: [screenshots](./screenshots/)
 
 [Read in Russian](./GITHUB_PROJECT_DESCRIPTION_RU.md) `RU`
 
+## Latest release
+
+Get the latest APK and release notes here: [Latest release](../../releases/latest)
+
 ---
 
 ## Copyright notice
