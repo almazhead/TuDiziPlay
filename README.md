@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./media/banner_ghub.jpg" alt="TuDiziPlay banner" width="100%" />
+</p>
+
 <h1 align="center">TuDiziPlay</h1>
 
 <p align="center">
@@ -29,7 +33,7 @@ See the full screenshots here: [screenshots](./screenshots/)
 
 ## Language
 
-Russian description: [RU](./GITHUB_PROJECT_DESCRIPTION_RU.md) 🇷🇺
+[Read in Russian](./GITHUB_PROJECT_DESCRIPTION_RU.md) `RU`
 
 ---
 
