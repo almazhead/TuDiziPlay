@@ -4,6 +4,15 @@ It is built for Android phones, adapted for tablets, and optimized for Android T
 
 Main features:
 
+## Screenshots
+
+<p align="center">
+  <img src="./screenshots/tudiziplay-1.jpg" width="22%" />
+  <img src="./screenshots/tudiziplay-2.jpg" width="22%" />
+  <img src="./screenshots/tudiziplay-3.jpg" width="22%" />
+  <img src="./screenshots/tudiziplay-4.jpg" width="22%" />
+</p>
+
 - Simple catalog browsing
 - Fast search and update tracking
 - Convenient episode picker and series navigation
