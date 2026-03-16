@@ -1,12 +1,17 @@
-<p align="center">
-  <img src="./assets/logo.png" alt="TuDiziPlay logo" width="120" />
-</p>
-
 <h1 align="center">TuDiziPlay</h1>
 
 <p align="center">
   Lightweight Android app for browsing Turkish series, episodes, and recent updates
 </p>
+
+<p align="center">
+  TuDiziPlay is an Android app for browsing Turkish series, episodes, and recent updates in a clean, lightweight interface.
+</p>
+
+<p align="center">
+  It is built for Android phones, adapted for tablets, and optimized for Android TV. The project is focused on fast navigation, convenient episode selection, and a comfortable viewing experience across different screen sizes.
+</p>
+
 
 TuDiziPlay is an Android app for browsing Turkish series, episodes, and recent updates in a clean, lightweight interface.
 
