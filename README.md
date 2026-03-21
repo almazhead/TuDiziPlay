@@ -42,12 +42,6 @@
 ## 🌍 Язык / Language
 
 - [Read in English](./README_EN.md) `EN`
-- **Текущая версия: Русский** `RU`
-
-## 🌍 Язык / Language
-
-- [Read in English](./README_EN.md) `EN`
-- **Текущая версия: Русский** `RU`
 
 ## 📥 Загрузка
 
