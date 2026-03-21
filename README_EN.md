@@ -1,60 +1,56 @@
 <p align="center">
-  <img src="./media/banner_ghub.jpg" alt="TuDiziPlay — Турецкие сериалы на Android" width="100%" />
+  <img src="./media/banner_ghub.jpg" alt="TuDiziPlay — Turkish Series on Android" width="100%" />
 </p>
 
-<h1 align="center">TuDiziPlay — Турецкие сериалы на Android</h1>
+<h1 align="center">TuDiziPlay — Turkish Series on Android</h1>
 
 <p align="center">
-  <b>Бесплатное приложение для поиска и просмотра турецких сериалов в HD качестве.</b><br>
-  Адаптировано для смартфонов, планшетов и Android TV (приставок и телевизоров).
+  <b>Free app for browsing and watching Turkish series in HD quality.</b><br>
+  Optimized for smartphones, tablets, and Android TV / TV Boxes.
 </p>
 
 <p align="center">
   <a href="../../releases/latest">
-    <img src="https://img.shields.io/badge/Скачать-APK_v1.1.1-green?style=for-the-badge&logo=android" alt="Скачать TuDiziPlay APK">
+    <img src="https://img.shields.io/badge/Download-APK_v1.1.1-green?style=for-the-badge&logo=android" alt="Download TuDiziPlay APK">
   </a>
 </p>
 
 ---
 
-## 📖 О проекте
+## 📖 About the Project
 
-**TuDiziPlay** — это легкое и быстрое приложение с чистым интерфейсом для тех, кто любит турецкий кинематограф. Мы собрали удобный каталог с быстрым поиском, чтобы вы могли смотреть любимые серии сразу после их выхода.
+**TuDiziPlay** is a clean, lightweight Android app designed for fans of Turkish cinematography. It provides a fast and convenient catalog with an easy-to-use search feature, so you can track recent updates and watch new episodes as they come out.
 
-Проект оптимизирован для работы на любых экранах: от маленьких телефонов до больших телевизоров с управлением от пульта.
+The project is fully responsive, ensuring a comfortable viewing experience on any device, from small phones to large TVs with remote control support.
 
-## ✨ Основные возможности
+## ✨ Main Features
 
-- **Удобный каталог:** Простой просмотр серий и новинок.
-- **Быстрый поиск:** Найдите любимый сериал за секунды.
-- **Отслеживание обновлений:** Всегда свежие эпизоды и уведомления.
-- **Полная адаптивность:** Комфортный интерфейс для телефонов, планшетов и Android TV.
-- **Выбор озвучки:** Поддержка различных вариантов перевода и субтитров.
+- **Simple Catalog:** Easy browsing of recent episodes and series.
+- **Fast Search:** Find your favorite shows in seconds.
+- **Update Tracking:** Keep up with the latest Turkish dramas and updates.
+- **Fully Responsive:** Adapted UI for Phones, Tablets, and Android TV.
+- **Subtitle & Voiceover Support:** Multiple audio and subtitle options available.
 
-## 🛠 Технологии
+## 🛠 Tech Stack
 
-Приложение разработано на **Flutter** и **Dart**. Это обеспечивает высокую производительность и плавность анимаций даже на бюджетных устройствах.
+TuDiziPlay is built with **Flutter** and **Dart**. This ensures a smooth user interface and high performance even on entry-level devices.
 
-## 📸 Скриншоты
+## 📸 Screenshots
 
-Посмотрите полные скриншоты интерфейса здесь: [Скриншоты](./screenshots/)
+See the full screenshots of the app here: [Screenshots](./screenshots/)
 
-## 🌍 Язык / Language
+## 📥 Download
 
-- [Read in English](./README_EN.md) `EN`
-
-## 📥 Загрузка
-
-Вы всегда можете найти последнюю версию приложения и описание изменений в разделе релизов:
-👉 **[Последний релиз TuDiziPlay](../../releases/latest)**
+You can always find the latest version and release notes in the Releases section:
+👉 **[Latest TuDiziPlay Release](../../releases/latest)**
 
 ---
 
-## ⚖️ Правовая информация (Copyright notice)
+## ⚖️ Copyright Notice
 
-Приложение и связанные ресурсы не хранят и не размещают видеофайлы на своих серверах. Все ссылки на контент взяты из открытых источников в интернете. Если вы являетесь правообладателем и хотите удалить какой-либо контент, пожалуйста, свяжитесь с разработчиком, и данные будут немедленно удалены.
+The application and website do not host or store video files. They only reference links that are publicly available from open sources on the internet. If you are a copyright holder and want any content removed, please contact the developer, and the requested content will be removed promptly.
 
 ---
 <p align="center">
-  Сделано с любовью для фанатов турецких сериалов 🇹🇷
+  Made with love for Turkish series fans 🇹🇷
 </p>
