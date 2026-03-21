@@ -1,46 +1,63 @@
 <p align="center">
-  <img src="./media/banner_ghub.jpg" alt="TuDiziPlay banner" width="100%" />
+  <img src="./media/banner_ghub.jpg" alt="TuDiziPlay — Турецкие сериалы на Android" width="100%" />
 </p>
 
-<h1 align="center">TuDiziPlay</h1>
+<h1 align="center">TuDiziPlay — Турецкие сериалы на Android</h1>
 
 <p align="center">
-  Lightweight Android app for browsing Turkish series, episodes, and recent updates
-</p>
-
-<p align="center">
-  TuDiziPlay is an Android app for browsing Turkish series, episodes, and recent updates in a clean, lightweight interface.
+  <b>Бесплатное приложение для поиска и просмотра турецких сериалов в HD качестве.</b><br>
+  Адаптировано для смартфонов, планшетов и Android TV (приставок и телевизоров).
 </p>
 
 <p align="center">
-  It is built for Android phones, adapted for tablets, and optimized for Android TV. The project is focused on fast navigation, convenient episode selection, and a comfortable viewing experience across different screen sizes.
+  <a href="../../releases/latest">
+    <img src="https://img.shields.io/badge/Скачать-APK_v1.1.1-green?style=for-the-badge&logo=android" alt="Скачать TuDiziPlay APK">
+  </a>
 </p>
-
-## Main features
-
-- Simple catalog browsing
-- Fast search and update tracking
-- Convenient episode picker and series navigation
-- Interface adapted for phone, tablet, and Android TV
-
-## Tech stack
-
-TuDiziPlay is built with Flutter and Dart for Android devices. The project includes a responsive UI for phones and tablets, as well as an adapted layout for Android TV.
-
-## Screenshots
-
-See the full screenshots here: [screenshots](./screenshots/)
-
-## Language
-
-[Read in Russian](./GITHUB_PROJECT_DESCRIPTION_RU.md) `RU`
-
-## Latest release
-
-Get the latest APK and release notes here: [Latest release](../../releases/latest)
 
 ---
 
-## Copyright notice
+## 📖 О проекте
 
-The application and website do not host or store video files. They only reference links that are publicly available from open sources on the internet. If you are a copyright holder and want any content removed, please contact the developer, and the requested content will be removed promptly.
+**TuDiziPlay** — это легкое и быстрое приложение с чистым интерфейсом для тех, кто любит турецкий кинематограф. Мы собрали удобный каталог с быстрым поиском, чтобы вы могли смотреть любимые серии сразу после их выхода.
+
+Проект оптимизирован для работы на любых экранах: от маленьких телефонов до больших телевизоров с управлением от пульта.
+
+## ✨ Основные возможности
+
+- **Удобный каталог:** Простой просмотр серий и новинок.
+- **Быстрый поиск:** Найдите любимый сериал за секунды.
+- **Отслеживание обновлений:** Всегда свежие эпизоды и уведомления.
+- **Полная адаптивность:** Комфортный интерфейс для телефонов, планшетов и Android TV.
+- **Выбор озвучки:** Поддержка различных вариантов перевода и субтитров.
+
+## 🛠 Технологии
+
+Приложение разработано на **Flutter** и **Dart**. Это обеспечивает высокую производительность и плавность анимаций даже на бюджетных устройствах.
+
+## 📸 Скриншоты
+
+Посмотрите полные скриншоты интерфейса здесь: [Папка со скриншотами](./screenshots/)
+
+*(Совет: добавьте сюда прямую ссылку на изображение через `![alt](./screenshots/your_screen.png)`, чтобы пользователь сразу видел приложение)*
+
+## 🌍 Язык / Language
+
+- [Read in English](./README_EN.md) `EN`
+- **Текущая версия: Русский** `RU`
+
+## 📥 Загрузка
+
+Вы всегда можете найти последнюю версию приложения и описание изменений в разделе релизов:
+👉 **[Последний релиз TuDiziPlay](../../releases/latest)**
+
+---
+
+## ⚖️ Правовая информация (Copyright notice)
+
+Приложение и связанные ресурсы не хранят и не размещают видеофайлы на своих серверах. Все ссылки на контент взяты из открытых источников в интернете. Если вы являетесь правообладателем и хотите удалить какой-либо контент, пожалуйста, свяжитесь с разработчиком, и данные будут немедленно удалены.
+
+---
+<p align="center">
+  Сделано с любовью для фанатов турецких сериалов 🇹🇷
+</p>
