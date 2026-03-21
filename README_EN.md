@@ -39,11 +39,6 @@ TuDiziPlay is built with **Flutter** and **Dart**. This ensures a smooth user in
 
 See the full screenshots of the app here: [Screenshots](./screenshots/)
 
-## 🌍 Language
-
-- **Current Version: English** `EN`
-- [Читать на русском](./README.md) `RU`
-
 ## 📥 Download
 
 You can always find the latest version and release notes in the Releases section:
