@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dalink.to/almazhead">
+  <a href="../../releases/latest">
     <img src="https://img.shields.io/badge/Скачать-APK_v1.1.3-green?style=for-the-badge&logo=android" alt="Скачать TuDiziPlay APK">
   </a>
 </p>
@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://dalink.to/almazhead">
-    <img src="https://img.shields.io/badge/Скачать-APK_v1.1.3-green?style=for-the-badge&logo=android" alt="Скачать TuDiziPlay APK">
+    <img src="https://img.shields.io/badge/Поддержать-Проект-orange?style=for-the-badge&logo=buymeacoffee" alt="Поддержать проект">
   </a>
 </p>
 
