@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="../../releases/latest">
-    <img src="https://img.shields.io/badge/Скачать-APK_v1.2.0-green?style=for-the-badge&logo=android" alt="Скачать TuDiziPlay APK">
+    <img src="https://img.shields.io/badge/Скачать-APK_v1.2.2-green?style=for-the-badge&logo=android" alt="Скачать TuDiziPlay APK">
   </a>
 </p>
 
