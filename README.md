@@ -5,13 +5,13 @@
 <h1 align="center">TuDiziPlay — Турецкие сериалы на Android</h1>
 
 <p align="center">
-  <b>Бесплатное приложение для поиска и просмотра турецких сериалов в HD качестве.</b><br>
+  <b>Приложение для поиска и просмотра турецких сериалов в HD качестве.</b><br>
   Адаптировано для смартфонов, планшетов и Android TV (приставок и телевизоров).
 </p>
 
 <p align="center">
   <a href="../../releases/latest">
-    <img src="https://img.shields.io/badge/Скачать-APK_v1.2.4-green?style=for-the-badge&logo=android" alt="Скачать TuDiziPlay APK">
+    <img src="https://img.shields.io/badge/Скачать-APK_v2.0.1-green?style=for-the-badge&logo=android" alt="Скачать TuDiziPlay APK">
   </a>
 </p>
 
